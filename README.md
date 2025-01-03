@@ -16,7 +16,7 @@
 <table> 
   <tr>
   <td>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulithapathum&" alt="dulithapathum" /></p></td>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dulithapathum&" alt="Dulithapathum" /></p></td>
   </tr>
 </table>
 
